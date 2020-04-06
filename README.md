@@ -1,11 +1,11 @@
 # Pretoria-TV
 Pretoria Tv Web App
 
-#installation
+# installation
 Make sure you have node and npm installed on you system if note go to https://nodejs.org/en/download/ and install
 
 Once Node has been installed open project root directory and run the following command
-npm install
+* npm install
 
 then after node modules have been installed run the follwing command
-npm start
+* npm start
